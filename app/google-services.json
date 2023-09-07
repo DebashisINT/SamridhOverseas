@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92795331820",
+    "project_id": "samridh-overseas",
+    "storage_bucket": "samridh-overseas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92795331820:android:081fd38c587bab1e2bf1c9",
+        "android_client_info": {
+          "package_name": "com.samridhoverseasfsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92795331820-4f8obtb6qb37eolej36ucqe2k2lb48i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjC6AoqOGuqPI_jSviuSqS04PydNXS6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92795331820-4f8obtb6qb37eolej36ucqe2k2lb48i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
